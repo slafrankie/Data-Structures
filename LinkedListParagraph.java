@@ -1,6 +1,6 @@
 /*
- *Purpose: This program will implement a linked list that will contain strings and in turn display a paragraph
- *Exercises 2.1B and 2.2B
+ This program will implement a linked list that will receieve strings and in turn display a paragraph
+ Author: Stephen LaFrankie
 */
  
  class wordNode
