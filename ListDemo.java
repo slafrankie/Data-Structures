@@ -1,6 +1,7 @@
-import java.util.*; //simple example of traversable linked list, throws exception if no file is found
+import java.util.*; 
 import java.io.*;
 class traversedList
+	//simple example of traversable linked list that throws exception if no file is found
 {
 	private int n;
 
@@ -12,6 +13,7 @@ class traversedList
  	{
 		n = num;
 	}
+	
 	//iterators
  	public traversedList(traversedList s)
  	{
